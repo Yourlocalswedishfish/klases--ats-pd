@@ -1,2 +1,3 @@
-# klases--chats-pd
-Projekta darbs 12. klasē - klases čata izveide ar FLASK, SQL un Python
+#Klases čats
+##Lietotne domāta, lai apskatīt iesūtītās ziņas, atzīmētu tās un sarunāties ar citiem lietotājiem
+##Izvēlētās valodas: Python, SQL, FLASK, HTML
